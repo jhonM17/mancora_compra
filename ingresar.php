@@ -47,7 +47,7 @@
 				<h3>Ingresar</h3>
 			</div>
 
-			<p>Ingresar con:</p>
+			<p> Ingresar con:</p>
 			<div style="margin-bottom:1em">
 				<a href="#" class="btn btn-primary btn-block">Facebook</a>
 			</div>
