@@ -71,42 +71,59 @@
 	<div class="row" style="margin-top:1em">
 		<div class="col-md-3">
 			<div class="box">
-				<img src="estaticos/img/lentes.jpg" width="100%">
+				<img src="estaticos/img/celulares1.jpg" width="100%" height="185px">
 				<h4><b>Lentes de Sol</b></h4>
 				<p>
 					<span style="color: #f1c40f;"><b>Marca:</b></span> OAKLEY<br>
 					<span style="color: #f1c40f;"><b>Precio:</b></span> <span style="font-size:1.5em"><b>S/. 34.00</b></span> Nuevos Soles<br>
 					</p>
+
+				<p class="text-right" >
+					<span style="background-color:#f1c40f;padding-top:2px;padding-bottom:5px;color:white"><img src="estaticos/img/user.jpg" width="25px" height="25px">&nbsp; Jhon Medina Zapata &nbsp;</span>
+				</p>
+				
 			</div>
 		</div>
 		<div class="col-md-3">
 			<div class="box">
-				<img src="estaticos/img/lentes.jpg" width="100%">
+				<img src="estaticos/img/lentes.jpg" width="100%" height="185px">
 				<h4><b>Lentes de Sol</b></h4>
 				<p>
 					<span style="color: #f1c40f;"><b>Marca:</b></span> OAKLEY<br>
 					<span style="color: #f1c40f;"><b>Precio:</b></span> <span style="font-size:1.5em"><b>S/. 34.00</b></span> Nuevos Soles<br>
 					</p>
+
+				<p class="text-right" >
+					<span style="background-color:#f1c40f;padding-top:2px;padding-bottom:5px;color:white"><img src="estaticos/img/user2.jpg" width="25px" height="25px">&nbsp; Lucy Rojas Herrera &nbsp;</span>
+				</p>
 			</div>
 		</div>
 		<div class="col-md-3">
 			<div class="box">
-				<img src="estaticos/img/lentes.jpg" width="100%">
+				<img src="estaticos/img/lentes.jpg" width="100%" height="185px">
 				<h4><b>Lentes de Sol</b></h4>
 				<p>
 					<span style="color: #f1c40f;"><b>Marca:</b></span> OAKLEY<br>
 					<span style="color: #f1c40f;"><b>Precio:</b></span> <span style="font-size:1.5em"><b>S/. 34.00</b></span> Nuevos Soles<br>
 					</p>
+
+				<p class="text-right" >
+					<span style="background-color:#f1c40f;padding-top:2px;padding-bottom:5px;color:white"><img src="estaticos/img/user3.jpg" width="25px" height="25px">&nbsp; Sandy Katherine Castillo Cruz &nbsp;</span>
+				</p>
 			</div>
 		</div>
 		<div class="col-md-3">
 			<div class="box">
-				<img src="estaticos/img/lentes.jpg" width="100%">
+				<img src="estaticos/img/lentes.jpg" width="100%" height="185px">
 				<h4><b>Lentes de Sol</b></h4>
 				<p>
 					<span style="color: #f1c40f;"><b>Marca:</b></span> OAKLEY<br>
 					<span style="color: #f1c40f;"><b>Precio:</b></span> <span style="font-size:1.5em"><b>S/. 34.00</b></span> Nuevos Soles<br>
 					</p>
+
+				<p class="text-right" >
+					<span style="background-color:#f1c40f;padding-top:2px;padding-bottom:5px;color:white"><img src="estaticos/img/user.jpg" width="25px" height="25px">&nbsp; Jhon Medina Zapata &nbsp;</span>
+				</p>
 			</div>
 		</div>
 		
@@ -115,42 +132,58 @@
 	<div class="row" style="margin-top:1em;">
 		<div class="col-md-3">
 			<div class="box">
-				<img src="estaticos/img/lentes.jpg" width="100%">
+				<img src="estaticos/img/lentes.jpg" width="100%" height="185px">
 				<h4><b>Lentes de Sol</b></h4>
 				<p>
 					<span style="color: #f1c40f;"><b>Marca:</b></span> OAKLEY<br>
 					<span style="color: #f1c40f;"><b>Precio:</b></span> <span style="font-size:1.5em"><b>S/. 34.00</b></span> Nuevos Soles<br>
 					</p>
+
+				<p class="text-right" >
+					<span style="background-color:#f1c40f;padding-top:2px;padding-bottom:5px;color:white"><img src="estaticos/img/user.jpg" width="25px" height="25px">&nbsp; Jhon Medina Zapata &nbsp;</span>
+				</p>
 			</div>
 		</div>
 		<div class="col-md-3">
 			<div class="box">
-				<img src="estaticos/img/lentes.jpg" width="100%">
+				<img src="estaticos/img/lentes.jpg" width="100%" height="185px">
 				<h4><b>Lentes de Sol</b></h4>
 				<p>
 					<span style="color: #f1c40f;"><b>Marca:</b></span> OAKLEY<br>
 					<span style="color: #f1c40f;"><b>Precio:</b></span> <span style="font-size:1.5em"><b>S/. 34.00</b></span> Nuevos Soles<br>
 					</p>
+
+				<p class="text-right" >
+					<span style="background-color:#f1c40f;padding-top:2px;padding-bottom:5px;color:white"><img src="estaticos/img/user.jpg" width="25px" height="25px">&nbsp; Jhon Medina Zapata &nbsp;</span>
+				</p>
 			</div>
 		</div>
 		<div class="col-md-3">
 			<div class="box">
-				<img src="estaticos/img/lentes.jpg" width="100%">
+				<img src="estaticos/img/lentes.jpg" width="100%" height="185px">
 				<h4><b>Lentes de Sol</b></h4>
 				<p>
 					<span style="color: #f1c40f;"><b>Marca:</b></span> OAKLEY<br>
 					<span style="color: #f1c40f;"><b>Precio:</b></span> <span style="font-size:1.5em"><b>S/. 34.00</b></span> Nuevos Soles<br>
 					</p>
+
+				<p class="text-right" >
+					<span style="background-color:#f1c40f;padding-top:2px;padding-bottom:5px;color:white"><img src="estaticos/img/user.jpg" width="25px" height="25px">&nbsp; Jhon Medina Zapata &nbsp;</span>
+				</p>
 			</div>
 		</div>
 		<div class="col-md-3">
 			<div class="box">
-				<img src="estaticos/img/lentes.jpg" width="100%">
+				<img src="estaticos/img/pelota.jpg" width="100%" height="185px">
 				<h4><b>Lentes de Sol</b></h4>
 				<p>
 					<span style="color: #f1c40f;"><b>Marca:</b></span> OAKLEY<br>
 					<span style="color: #f1c40f;"><b>Precio:</b></span> <span style="font-size:1.5em"><b>S/. 34.00</b></span> Nuevos Soles<br>
 					</p>
+
+				<p class="text-right" >
+					<span style="background-color:#f1c40f;padding-top:2px;padding-bottom:5px;color:white"><img src="estaticos/img/user.jpg" width="25px" height="25px">&nbsp; Jhon Medina Zapata &nbsp;</span>
+				</p>
 			</div>
 		</div>
 		

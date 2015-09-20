@@ -46,6 +46,16 @@
 			<div class="text-center">
 				<h3>Ingresar</h3>
 			</div>
+
+			<p>Ingresar con:</p>
+			<div style="margin-bottom:1em">
+				<a href="#" class="btn btn-primary btn-block">Facebook</a>
+			</div>
+			<div style="margin-bottom:1em">
+				<a href="#" class="btn btn-info btn-block">Twitter</a>
+			</div>
+			<hr style="border-color:#ccc">
+			<p>Ingresar con tu cuenta:</p>
 			<form>
 			  <div class="form-group">
 			    <label for="exampleInputEmail1">Correo</label>
