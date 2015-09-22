@@ -8,14 +8,16 @@ include("conexion.php");
    		isset($_POST['contraseña_conf'])&&        !empty ($_POST['contraseña_conf'])&&
    		isset($_POST['apellidos'])&&      !empty ($_POST['apellidos'])&&
    		isset($_POST['dni'])&&         !empty ($_POST['dni']) &&
+   		isset($_POST['direccion'])&&         !empty ($_POST['direccion']) &&
+   		isset($_POST['lugar'])&&         !empty ($_POST['lugar']) &&
    		isset($_POST['razon'])&&         !empty ($_POST['razon'])&&
    		isset($_POST['ruc'])&&         !empty ($_POST['ruc'])) 
 
 	{
 
-		$consulta="INSERT INTO clientes(CORREO,CONTRASENA,CONTRASENA_CONF,APELLIDOS,DNI,RAZON,RUC) VALUES 
+		$consulta="INSERT INTO clientes(CORREO,CONTRASENA,CONTRASENA_CONF,APELLIDOS,DNI,DIRECCION,LUGAR,RAZON,RUC) VALUES 
   										    ('$_POST[correo]','$_POST[contraseña]','$_POST[contraseña_conf]',
-  										    '$_POST[apellidos]','$_POST[dni]','$_POST[razon]','$_POST[ruc]'
+  										    '$_POST[apellidos]','$_POST[dni]','$_POST[direccion]','$_POST[lugar]','$_POST[razon]','$_POST[ruc]'
   										    )";
 		$con=$conexion->query($consulta);
 	
